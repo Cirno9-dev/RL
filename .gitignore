@@ -1,5 +1,2 @@
-# 默认忽略的文件
-/shelf/
-/workspace.xml
-/venv/
-/.idea/
+.idea
+venv
